@@ -49,7 +49,7 @@ instead of dumping random skills, here's actually how i approach learning stuff:
 
 - **github**: [aliiarrshad](https://github.com/aliiarrshad) where i actually live.
 - **email**: ali015421@gmail.com if you wanna hit me up and leave paper trail.
-- **website**: [aliiarrshad](https://aliiarrshad.github.io) will probably showcase my portfolio here.
+- **website**: [aliiarrshad](https://aliiarrshad.github.io) portfolio here.
 
 
 ---
